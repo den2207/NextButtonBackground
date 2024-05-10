@@ -11,6 +11,7 @@
 		2AD5978A2BEE1B72009480DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD597892BEE1B72009480DE /* ContentView.swift */; };
 		2AD5978C2BEE1B74009480DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD5978B2BEE1B74009480DE /* Assets.xcassets */; };
 		2AD5978F2BEE1B74009480DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD5978E2BEE1B74009480DE /* Preview Assets.xcassets */; };
+		2AD597962BEE1BA2009480DE /* BackgroundStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD597952BEE1BA2009480DE /* BackgroundStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2AD597892BEE1B72009480DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2AD5978B2BEE1B74009480DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AD5978E2BEE1B74009480DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2AD597952BEE1BA2009480DE /* BackgroundStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2AD597872BEE1B72009480DE /* NextButtonBackgroundApp.swift */,
 				2AD597892BEE1B72009480DE /* ContentView.swift */,
+				2AD597952BEE1BA2009480DE /* BackgroundStyle.swift */,
 				2AD5978B2BEE1B74009480DE /* Assets.xcassets */,
 				2AD5978D2BEE1B74009480DE /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AD5978A2BEE1B72009480DE /* ContentView.swift in Sources */,
+				2AD597962BEE1BA2009480DE /* BackgroundStyle.swift in Sources */,
 				2AD597882BEE1B72009480DE /* NextButtonBackgroundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
